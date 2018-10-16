@@ -1,17 +1,17 @@
-#PHP中文网练习
+# PHP中文网练习
 
-##2018-10-7
+## 2018-10-7
 
 [1.php](https://github.com/workcha/phpChinaNet/blob/master/2018-10-7/1.php) => 获取txt文件内容并转换为数组
 
 
-##2018-10-16
+## 2018-10-16
 
 [1.php](https://github.com/workcha/phpChinaNet/blob/master/2018-10-13/1.php) => 冒泡算法--php版本
 
 [2.php](https://github.com/workcha/phpChinaNet/blob/master/2018-10-13/2.php) =>无限级分类之下拉列表--php
 
-##2018-10-16
+## 2018-10-16
 
 [1.php](https://github.com/workcha/phpChinaNet/blob/master/2018-10-16/1.php) =>字符串反转的方法
 
