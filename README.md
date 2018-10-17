@@ -22,3 +22,7 @@
 [4.php](https://github.com/workcha/phpChinaNet/blob/master/2018-10-16/4.php) =>字符串转义与还原
 
 [5.php](https://github.com/workcha/phpChinaNet/blob/master/2018-10-16/5.php) =>删除二维数组重复元素
+
+## 2018-10-17
+[1.php](https://github.com/workcha/phpChinaNet/blob/master/2018-10-17/1.php) =>字符串全排列组合
+[2.php](https://github.com/workcha/phpChinaNet/blob/master/2018-10-17/2.php) =>PHP上传视频
